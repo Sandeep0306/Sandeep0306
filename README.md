@@ -24,6 +24,6 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
-<img src="https://skillicons.dev/icons?i=html,css,cpp,java,javascript,react,tailwind,bootstrap,express,git,github,mongo,mysql,firebase,vercel">
+<img src="https://skillicons.dev/icons?i=html,css,cpp,java,javascript,react,tailwind,bootstrap,nodejs,express,git,github,mongo,mysql,firebase,vercel,netlify">
  </p>
 
