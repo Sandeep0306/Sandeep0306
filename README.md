@@ -8,6 +8,8 @@
 
 <p align="left"> <a href="https://twitter.com/sandeep280306" target="blank"><img src="https://img.shields.io/twitter/follow/sandeep280306?logo=twitter&style=for-the-badge" alt="sandeep280306" /></a> </p>
 
+- 🔭 I’m currently working on my Personal Projects.
+
 - 🌱 I’m currently learning **Web Development & DSA**
 
 - 👀 I’m interested in **Open-Source & passionate about Technology**
