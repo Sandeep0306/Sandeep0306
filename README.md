@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Sandeep Biswal</h1>
 <h3 align="center">A passionate frontend developer from New Delhi, India.</h3>
 <h3 align="center">Student at MSIT, Delhi </h3>
-<img align="right" alt="Coding" width="400" src="https://www.wingstechsolutions.com/wp-content/uploads/2022/03/full-stack-development.gif">
+<img align="right" alt="Coding" width="380" src="https://www.wingstechsolutions.com/wp-content/uploads/2022/03/full-stack-development.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sandeep0306&label=Profile%20views&color=0e75b6&style=flat" alt="sandeep0306" /> </p>
 
