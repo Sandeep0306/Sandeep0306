@@ -14,7 +14,7 @@
 
 - 👀 I’m interested in **Open-Source & passionate about Technology**
 
-- 💬 Ask me about **React**
+<!-- - 💬 Ask me about **React** -->
 
 - 📫 How to reach me **samdeepbiswal123@gmail.com**
 
