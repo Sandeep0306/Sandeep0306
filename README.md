@@ -1,4 +1,3 @@
-[![MasterHead](https://jusmarktech.com/public/a/images/pages/web_development.gif)](https://Sandeep0306.io)
 <h1 align="center">Hi 👋, I'm Sandeep Biswal</h1>
 <h3 align="center">A passionate frontend developer from New Delhi, India.</h3>
 <h3 align="center">Student at MSIT, Delhi </h3>
@@ -26,6 +25,6 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
-<img src="https://skillicons.dev/icons?i=html,css,cpp,java,javascript,react,nodejs,express,mongodb,tailwind,bootstrap,git,">
+<img src="https://skillicons.dev/icons?i=html,css,cpp,java,javascript,react,nodejs,express,mongodb,tailwind,bootstrap,git,materialui,vite">
  </p>
 
