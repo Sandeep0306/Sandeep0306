@@ -29,7 +29,7 @@
  </p>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Sandeep0306&show_icons=true&locale=en&layout=compact" alt="Sandeep Biswal" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Sandeep0306&show_icons=true&locale=en" alt="rushalipatnaik" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Sandeep0306&show_icons=true&locale=en" alt="Sandeep Biswal" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Sandeep0306&" alt="Sandeep Biswal" /></p>
 
