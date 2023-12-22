@@ -25,7 +25,7 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
-<img src="https://skillicons.dev/icons?i=html,css,cpp,java,javascript,react,nodejs,express,mongodb,tailwind,bootstrap,git,materialui,vite,postman">
+<img src="https://skillicons.dev/icons?i=html,css,cpp,java,javascript,typescript,react,nodejs,express,mongodb,tailwind,bootstrap,git,materialui,vite,postman">
  </p>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Sandeep0306&show_icons=true&locale=en&layout=compact" alt="Sandeep Biswal" /></p>
 
